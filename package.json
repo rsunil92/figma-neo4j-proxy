@@ -1,1 +1,5 @@
-
+{
+  "name": "figma-neo4j-proxy",
+  "version": "1.0.0",
+  "description": "Neo4j proxy for Figma accessibility plugin"
+}
